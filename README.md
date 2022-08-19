@@ -7,10 +7,13 @@
 tanana tananan
 
 ## Badges
-
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-![issues](https://img.shields.io/github/issues/fernandamachado1/exemple-rdmd?style=for-the-badge)
-![GitHub Org's stars](https://img.shields.io/github/stars/fernandamachado1/exemple-rdmd?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+  <img src="https://img.shields.io/github/stars/fernandamachado1/exemple-rdmd?style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+</p>
 
 ## :hammer: Funcionalidades do projeto
 
