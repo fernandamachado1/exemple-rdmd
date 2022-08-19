@@ -32,4 +32,14 @@ Instale my-project com npm
   npm install my-project
   cd my-project
 ```
+
+## Uso/Exemplos
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
     
